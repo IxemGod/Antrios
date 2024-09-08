@@ -14,7 +14,7 @@ projet qui à débuté en 2017 et qui évolue de
 plus en plus. Je serais très contents que l'un
 d'entre vous puisse le cracker sans regarder le
 code source de ce programme. Voici mon discord
-si jamais vous y arrivez : IxemGod#5206.
+si jamais vous y arrivez : IxemGod.
 
 PS : Une aide sera toujours apportée à ceux qui l'à mérite
 
